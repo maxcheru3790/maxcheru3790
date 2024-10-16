@@ -1,0 +1,67 @@
+body{
+    background-color: whitesmoke;
+    background-image: url('css/faith.jpeg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    height: 100vh;
+    margin:0;
+}
+h1{
+    color:white;
+    text-align: center;
+    text-wrap: pretty;
+}
+p{
+    font-family: Verdana: "Arial Narrow";
+    color: black;
+    font-size:15px;
+    border:2px solid lime;
+    padding:10px;
+    margin:30px;
+}
+
+th,td{
+    border:2px solid chartreuse;
+    padding: 10px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial,Serif;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    background-color: limegreen;
+    overflow: hidden;
+}
+li{
+    float:left;
+}
+li a{
+    display:block;
+    padding:15px;
+    color: white;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color:black;
+}
+button{
+    background-color:grey;
+    color: blue;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+button:hover{
+    background-color: black;
+}
+.parent{
+    display:block;
+}
+

@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Forms</title>
+</head>
+<body >
+<h2>Student Registration Form</h2>
+<form action="" method="post">
+    <label for="fname">First Name:</label>
+    <input type="text" id="fname" name="fname" placeholder="Enter your First Name" required><br><br>
+    <label for="lname">Last Name:</label>
+    <input type="text" id="lname" name="lname" placeholder="Enter your Last Name" required><br><br>
+    <label for="email"> Email Address:</label>
+    <input type="email" id="email" name="email"><br><br>
+    <label for="dob"> Date of Birth</label>
+    <input type="date" id="dob" name="dob"><br><br>
+    <label for="female">Female</label>
+    <input type="radio" id="female" name="gender" value="Female" >
+    <label for="male">Male</label>
+    <input type="radio" id="male" name="gender" value="Male">
+    <label for="custom">Custom</label>
+    <input type="radio" id="custom" name="gender" value="Custom"  > <br><br>
+    <label for="course">Course</label>
+<select name="course" id="course">
+    <option value="React">React Js</option>
+    <option value="ds">Data Science</option>
+    <option value="ml">Machine Learning</option>
+    <option value="ai">Artificial Intelligence</option>
+    <option value="django">Django</option>
+    <option value="lar">Laravel</option>
+    <option value="Other">Other</option>
+</select>
+<br><br>
+    <label for="password">Password</label>
+    <input type="password" id="password" name="password" placeholder="Enter your Password" required><br><br></br>
+    <input type="submit" value= "Register Here!">
+    <label for="pic">Upload Profile Pic</label>
+    <input type="file" id="pic" name="pic"><br><br></br>
+</form>
+</body>
+</html>
