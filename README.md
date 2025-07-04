@@ -1,18 +1,34 @@
 👋 Hi, I'm Maxwel Cheruiyot!
-I’m a passionate learner and developer currently diving into the world of web development with a focus on HTML, CSS, JavaScript, and Python/Django.
+I'm a passionate data enthusiast and developer exploring the intersection of data, automation, and visualization.
 
 👀 I’m interested in:
-Building web applications with Django and Python.
-Front-end development using HTML, CSS, and JavaScript.
-Contributing to open-source projects.
+
+R and Python for data analysis and automation
+
+Building interactive dashboards with RShiny
+
+Web scraping using Selenium and BeautifulSoup
+
+Working with Jupyter Notebooks for exploratory data science
+
 🌱 I’m currently learning:
-Enhancing my skills in Python/Django for building dynamic web applications.
-Deepening my understanding of JavaScript and exploring modern frameworks like Bootsrap.
+
+Advanced techniques in web scraping and automation
+
+Designing interactive apps with RShiny
+
+Data cleaning, visualization, and storytelling using tidyverse, pandas, and matplotlib
+
 💞️ I’m looking to collaborate on:
-Python-based projects (Django, Flask, etc.)
-Full-stack web development projects.
-Open-source contributions related to web technologies.
+
+Web scraping and data collection pipelines
+
+R/Python-based data analysis or visualization projects
+
+Projects involving RShiny dashboards or Jupyter workflows
+
 📫 How to reach me:
 Email: maxwel.cheruiyot3790@gmail.com
+
 ⚡ Fun fact:
-I love solving coding challenges and learning new things every day. When I'm not coding, you’ll probably find me exploring new technologies or working on personal projects.
+I love turning raw data into insights. When I’m not coding, I’m probably exploring new tech tools or building data-driven side projects.
